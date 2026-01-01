@@ -22,7 +22,7 @@ lt slash p gt </p>
 This is the first paragraph. P Tag formats vert gaps long text like this.
                 </p>
                 <p id="wd-p-3">
-This is the second p. Even though white space, default browsers don't
+This is the second p. Even though white space, default browsers dont
                 </p>
                 <p id="wd-p-4">
 This is the third paragraph. Wrap each with p tag to tell browsers render gaps.

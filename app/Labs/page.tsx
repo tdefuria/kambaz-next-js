@@ -4,11 +4,15 @@ export default function Labs() {
         <ul>
             <li>
                 <Link href="/Labs" id="wd-labs-link">
-                Home </Link> 
+                <h2>Home</h2> </Link> 
             </li>
             <li>
                 <Link href="/Labs/Lab1" id="wd-lab1-link">
-                Lab 1 </Link>
+                <h2>Lab 1</h2> </Link>
+            </li>
+            <li>
+                <Link href="/Labs/Lab2" id="wd-lab2-link">
+                <h2>Lab 2</h2> </Link>
             </li>
         </ul>
     )

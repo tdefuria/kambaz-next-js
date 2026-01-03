@@ -8,8 +8,8 @@ export default function NotFound() {
                 The requested page could not be found. Please check the page URL 
                 or return to the landing page.
             </p>
-            <Link href="/page" className="btn btn-primary mt-3">
-                Back to Landing
+            <Link href="/Labs" className="btn btn-primary mt-3">
+                Back to Labs
             </Link>
         </div>
     );
